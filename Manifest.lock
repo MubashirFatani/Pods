@@ -1,0 +1,48 @@
+PODS:
+  - ActionSheetPicker (1.6.2)
+  - Alamofire (5.8.1)
+  - DropDown (2.3.13)
+  - iOSDropDown (0.4.0)
+  - IQKeyboardManagerSwift (7.0.1)
+  - SDWebImage (5.18.10):
+    - SDWebImage/Core (= 5.18.10)
+  - SDWebImage/Core (5.18.10)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+  - TOCropViewController (2.6.1)
+
+DEPENDENCIES:
+  - ActionSheetPicker
+  - Alamofire
+  - DropDown
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - SDWebImage
+  - SVProgressHUD
+  - TOCropViewController
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker
+    - Alamofire
+    - DropDown
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - SDWebImage
+    - SVProgressHUD
+    - TOCropViewController
+
+SPEC CHECKSUMS:
+  ActionSheetPicker: cc5255a36aabaf34245b97a478059d26bac8cd84
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  IQKeyboardManagerSwift: 7f6b1b1d1497855d2beea7f2f10ffcc6978525b1
+  SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+  TOCropViewController: edfd4f25713d56905ad1e0b9f5be3fbe0f59c863
+
+PODFILE CHECKSUM: 074f81907cef92fad7148bbb711cea2cb5239b0b
+
+COCOAPODS: 1.14.3
