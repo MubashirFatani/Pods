@@ -5,6 +5,8 @@ PODS:
   - DropDown (2.3.13)
   - iOSDropDown (0.4.0)
   - IQKeyboardManagerSwift (7.0.1)
+  - Reachability (3.7.5)
+  - ReachabilitySwift (5.2.1)
   - SDWebImage (5.18.10):
     - SDWebImage/Core (= 5.18.10)
   - SDWebImage/Core (5.18.10)
@@ -20,6 +22,8 @@ DEPENDENCIES:
   - DropDown
   - iOSDropDown
   - IQKeyboardManagerSwift
+  - Reachability
+  - ReachabilitySwift
   - SDWebImage
   - SVProgressHUD
   - TOCropViewController
@@ -32,6 +36,8 @@ SPEC REPOS:
     - DropDown
     - iOSDropDown
     - IQKeyboardManagerSwift
+    - Reachability
+    - ReachabilitySwift
     - SDWebImage
     - SVProgressHUD
     - TOCropViewController
@@ -43,10 +49,12 @@ SPEC CHECKSUMS:
   DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
   iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
   IQKeyboardManagerSwift: 7f6b1b1d1497855d2beea7f2f10ffcc6978525b1
+  Reachability: 44d15955cdaee6cef699877e1f6647dd6f6698cc
+  ReachabilitySwift: 5ae15e16814b5f9ef568963fb2c87aeb49158c66
   SDWebImage: fc8f2d48bbfd72ef39d70e981bd24a3f3be53fec
   SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
   TOCropViewController: edfd4f25713d56905ad1e0b9f5be3fbe0f59c863
 
-PODFILE CHECKSUM: 63b27edf7c1a967fb82d04f5abacb4f777f9ba2b
+PODFILE CHECKSUM: d430d0f829bc07d066124eb9c3fa8e65ff1c8f88
 
 COCOAPODS: 1.14.3

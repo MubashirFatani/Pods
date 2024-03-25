@@ -17,7 +17,7 @@
 #import "TOCropViewControllerTransitioning.h"
 #import "TOCropViewController.h"
 #import "TOCropOverlayView.h"
-#import "TOCropScrollView(showsIndicators: false).h"
+#import "TOCropScrollView.h"
 #import "TOCropToolbar.h"
 #import "TOCropView.h"
 
